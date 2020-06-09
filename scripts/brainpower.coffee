@@ -2,15 +2,15 @@ COMMANDS =
 [
   { input: /are you ready/i, reply: 'hmm?'},
   { input: /adrenaline is pumpin/i, reply: 'adrenaline... is pumpin!'},
-  { input: /generator/i, reply: 'automatic lover'},
-  { input: /atomic/i, reply: 'ATOMIC'},
-  { input: /overdrive/i, reply: 'blockbuster'},
-  { input: /call me leader/i, reply: '..cocaine?'},
-  { input: /dont you try it/i, reply: 'DONT YOU TRY IT'},
-  { input: /innovator/i, reply: null},
-  { input: /killer machine/i, reply: null },
-  { input: /theres no fate/i, reply: null},
-  { input: /take control/i, reply: '(are you serious?)'},
+  { input: /generator/i, reply: 'Automatic lover ⛳'},
+  { input: /atomic/i, reply: 'ATOMIC ☢️'},
+  { input: /overdrive/i, reply: 'Blockbuster 📼'},
+  { input: /call me leader/i, reply: '... Cocaine?'},
+  { input: /dont you try it/i, reply: 'DONT YOU TRY IT @antonio'},
+  { input: /innovator/i, reply: ':female-scientist: 🧲'},
+  { input: /killer machine/i, reply: ':hocho: 💣 🤖' },
+  { input: /theres no fate/i, reply: ':x:'},
+  { input: /take control/i, reply: '(are you serious?) 💣'},
 ]
 
 SEQUENCE = 
