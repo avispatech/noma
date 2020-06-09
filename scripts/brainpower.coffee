@@ -2,7 +2,7 @@ COMMANDS =
 [
   { input: /are you ready/i, reply: 'hmm?'},
   { input: /adrenaline is pumpin/i, reply: 'adrenaline... is pumpin!'},
-  { input: /generator/i, reply: 'atomic lover'},
+  { input: /generator/i, reply: 'automatic lover'},
   { input: /atomic/i, reply: 'ATOMIC'},
   { input: /overdrive/i, reply: 'blockbuster'},
   { input: /call me leader/i, reply: '..cocaine?'},
